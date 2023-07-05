@@ -1,0 +1,5 @@
+默認文件夾，儲存平台SDK或自訂義SDK
+例如
+支付SDK
+分享SDK
+Android/iOS打包SDK
